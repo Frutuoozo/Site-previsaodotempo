@@ -1,6 +1,6 @@
 # Site Previsão do Tempo ![ico-tempo](https://github.com/user-attachments/assets/cf3e7216-8eea-457c-a9a2-04f8b024cd65)
 Esse site oferecem informações precisas sobre temperatura, chuva e umidade. Aproveite essas ferramentas para se manter informado sobre o clima da sua cidade! <br>
-Acesse aqui: <a href="#" target="_blank">Site Previsão do tempo</a>
+
 <br>
 
 ### 📜 Resumo do Conteudo:
