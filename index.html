@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+	<link rel="shortcut icon" href="Img/Ico.ico" type="image/x-icon">
+	<link rel="stylesheet" href="style.css">
+	<script src="scripts.js"></script>
+	<title>Previsão Do Tempo</title>
+</head>
+<body>
+<div class="cxmaior"> <!--Caixa maior-->
+		<input id="input-cidade" placeholder="Digite a cidade" type="text">
+
+		<button id="botao-busca" onclick="cliqueiBotao()">
+			<img id="img-busca" src="https://www.svgrepo.com/show/488200/find.svg" alt="iconi-busca">
+		</button>
+	<div class="cxmedia"> <!--Caixa media-->
+		<h2 id="cidade">Tempo em São Paulo</h2>
+
+		<p class="texto-tempo">21°C</p>
+			
+		<div class="cxmenor"> <!--Caixa menor-->
+			<img class="img-previsao" src="https://openweathermap.org/img/wn/04n.png" alt="iconi-nuvem">
+			<p class="texto-previsao">Nublado</p>
+		</div>
+
+		<p class="texto-umidade">Umidade: 76%</p>
+
+	</div>
+
+	<p class="dev"><a target="_blank" href="https://github.com/Frutuoozo">Frutuoozo</a>
+</div>	
+</body>
+</html>
